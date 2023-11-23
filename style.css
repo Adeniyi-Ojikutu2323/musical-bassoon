@@ -7,6 +7,7 @@ nav a{
     text-decoration: none;
     color:brown;
     list-style: none;
+    display: inline;
 }
 
 img{
@@ -16,6 +17,7 @@ img{
 
 body{
     background-color: aqua;
+    font-family: sans-serif;
 }
 .grid{
     height: 100vh;
